@@ -5,7 +5,7 @@ These projects represent subsystems, features, or integrations that are not broa
 
 ## Use in Commerce Kickstart
 
-The primary purpose of this package is to collect in a single metapackage the various contributed projects we want to include in Commerce Kickstart. Commerce Kickstart is designed to be the fastest way to start building on Drupal Commerce. It provides an installation profile that can serve as a starting point for any new Drupal Commerce project along with a variety of feature modules for default configuration and an optional demo store.
+The primary purpose of this package is to collect in a single metapackage the various contributed projects we want to include in [Commerce Kickstart](https://www.drupal.org/project/commerce_kickstart). Commerce Kickstart is designed to be the fastest way to start building on Drupal Commerce. It provides an installation profile that can serve as a starting point for any new Drupal Commerce project along with a variety of feature modules for default configuration and an optional demo store.
 
 We can guarantee the versions of the modules included in the package work well together and have sufficient documentation. We can also introduce new modules to existing Commerce Kickstart sites in the future by adding them to this package without making them dependencies of the profile itself. This means advanced developers who do not want the full suite of modules included in their codebases or who want to use different versions than we have certified can remove the `centarro/certified-projects` dependency after creating their projects and re-install just the modules they actually want.
 
