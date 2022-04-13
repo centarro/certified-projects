@@ -21,7 +21,6 @@ We can guarantee the versions of the modules included in the package work well t
 * [Commerce PayPal](https://www.drupal.org/project/commerce_paypal)
 * [Commerce Braintree](https://www.drupal.org/project/commerce_braintree)
 * [Commerce Authorize.Net](https://www.drupal.org/project/commerce_authnet)
-* [Commerce CyberSource](https://www.drupal.org/project/commerce_cybersource)
 * [Commerce AvaTax](https://www.drupal.org/project/commerce_avatax)
 * [Commerce Square](https://www.drupal.org/project/commerce_square)
 
@@ -39,6 +38,7 @@ We can guarantee the versions of the modules included in the package work well t
 The following projects are on the short list for inclusion in future updates of this package.
 
 * [Commerce Cart Estimate](https://www.drupal.org/project/commerce_cart_estimate)
+* [Commerce CyberSource](https://www.drupal.org/project/commerce_cybersource)
 * [Commerce Invoice](https://www.drupal.org/project/commerce_invoice)
 * [Commerce Invoice Payment](https://www.drupal.org/project/commerce_invoice_payment)
 * [Commerce Recurring](https://www.drupal.org/project/commerce_recurring)
