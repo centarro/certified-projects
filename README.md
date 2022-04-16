@@ -33,6 +33,11 @@ We can guarantee the versions of the modules included in the package work well t
 * [Commerce Product Tax](https://www.drupal.org/project/commerce_product_tax) - select a product's tax rate on its edit form
 * [Commerce Store Domain](https://www.drupal.org/project/commerce_store_domain) - select the current store based on the domain
 
+### Themes
+
+* [Belgrade](https://www.drupal.org/project/belgrade) - Bootstrap based, mobile optimized store theme
+* [Centarro Claro](https://github.com/centarro/centarro_claro) - customized version of Drupal core's Claro admin theme
+
 ## Roadmap
 
 The following projects are on the short list for inclusion in future updates of this package.
