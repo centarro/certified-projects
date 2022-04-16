@@ -51,3 +51,4 @@ The following projects are on the short list for inclusion in future updates of 
 * [Commerce Signifyd](https://www.drupal.org/project/commerce_signifyd)
 * [Commerce Wishlist](https://www.drupal.org/project/commerce_wishlist)
 
+We will tag a new patch version (e.g. 1.0.1, 1.0.2, etc.) when we increase the minimum version of a certified project. We will tag a minor version (e.g. 1.1.0, 1.2.0, etc.) when we add a new project to the metapackage. We will tag a new major release (e.g. 2.0.0) when projects are upgraded or added such that their compatibility with each other or Commerce Core versions are impacted.
