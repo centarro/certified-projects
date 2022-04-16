@@ -32,7 +32,7 @@
         "drupal/commerce_product_limits": "^1.0",
         "drupal/commerce_product_tax": "^1.0@RC",
         "drupal/commerce_shipping": "^2.3",
-        "drupal/commerce_square": "^1.4",
+        "drupal/commerce_square": "^1.5",
         "drupal/commerce_store_domain": "^1.0@RC"
     }
 }
