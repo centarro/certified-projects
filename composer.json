@@ -20,7 +20,7 @@
     ],
     "require": {
         "centarro/centarro_claro": "1.x-dev",
-        "drupal/belgrade": "^2.0@beta",
+        "drupal/belgrade": "^2",
         "drupal/commerce_authnet": "^1.6",
         "drupal/commerce_avatax": "^1.1",
         "drupal/commerce_braintree": "^1.3",
