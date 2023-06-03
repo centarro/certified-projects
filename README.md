@@ -48,6 +48,7 @@ The following projects are on the short list for inclusion in future updates of 
 * [Commerce Invoice Payment](https://www.drupal.org/project/commerce_invoice_payment)
 * [Commerce Recurring](https://www.drupal.org/project/commerce_recurring)
 * [Commerce Reports](https://www.drupal.org/project/commerce_reports)
+* [Commerce ShipStation](https://www.drupal.org/project/commerce_shipstation)
 * [Commerce Signifyd](https://www.drupal.org/project/commerce_signifyd)
 * [Commerce Wishlist](https://www.drupal.org/project/commerce_wishlist)
 
