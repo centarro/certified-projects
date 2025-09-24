@@ -22,6 +22,7 @@ We can guarantee the versions of the modules included in the package work well t
 * [Commerce Braintree](https://www.drupal.org/project/commerce_braintree)
 * [Commerce Authorize.Net](https://www.drupal.org/project/commerce_authnet)
 * [Commerce AvaTax](https://www.drupal.org/project/commerce_avatax)
+* [Commerce Stripe](https://www.drupal.org/project/commerce_stripe)
 
 ### Feature modules
 
@@ -31,6 +32,7 @@ We can guarantee the versions of the modules included in the package work well t
 * [Commerce Product Limits](https://www.drupal.org/project/commerce_product_limits) - limit the purchaseable quantity of products
 * [Commerce Product Tax](https://www.drupal.org/project/commerce_product_tax) - select a product's tax rate on its edit form
 * [Commerce Store Domain](https://www.drupal.org/project/commerce_store_domain) - select the current store based on the domain
+
 
 ### Themes
 
