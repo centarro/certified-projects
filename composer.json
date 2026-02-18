@@ -26,7 +26,7 @@
         "drupal/commerce_email": "^1.1",
         "drupal/commerce_file": "^2.0",
         "drupal/commerce_license": "^3",
-        "drupal/commerce_paypal": "^1.0 || ^2",
+        "drupal/commerce_paypal": "^2",
         "drupal/commerce_pricelist": "^2.4",
         "drupal/commerce_product_limits": "^1.0",
         "drupal/commerce_product_tax": "^1.0",
