@@ -37,7 +37,13 @@ We can guarantee the versions of the modules included in the package work well t
 ### Themes
 
 * [Belgrade](https://www.drupal.org/project/belgrade) - Bootstrap based, mobile optimized store theme
-  
+
+### Recipes
+
+* [Commerce Recipe: Stripe Payment Element](https://www.drupal.org/project/commerce_recipe_stripe_payment_element)
+* [Commerce Recipe: Product Alternative](https://www.drupal.org/project/commerce_recipe_product_alternative)
+* [Commerce Recipe: User Roles](https://www.drupal.org/project/commerce_recipe_user_roles)
+
 ## Roadmap
 
 The following projects are on the short list for inclusion in future updates of this package.
