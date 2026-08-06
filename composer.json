@@ -33,5 +33,12 @@
         "drupal/commerce_shipping": "^2.3 || ^3",
         "drupal/commerce_stripe": "^2.1",
         "drupal/commerce_store_domain": "^1.0"
+    },
+    "extra": {
+        "centarro-certified-recipes": [
+            "drupal/commerce_recipe_stripe_payment_element",
+            "drupal/commerce_recipe_product_alternative",
+            "drupal/commerce_recipe_user_roles"
+        ]
     }
 }
